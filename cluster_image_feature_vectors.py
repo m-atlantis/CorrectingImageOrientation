@@ -38,7 +38,6 @@ def cluster(master_img_name):
 
     print("---------------------------------")
     print("Step.1 - ANNOY index generation - Started at %s" % time.ctime())
-    print("---------------------------------")
 
     # Defining data structures as empty dict
     file_index_to_file_name = {}
