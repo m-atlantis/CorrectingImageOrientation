@@ -1,0 +1,9 @@
+.idea
+Images/*
+Rotated_Images/*
+AID.zip
+correcting_rotation_dataset.hdf5
+*/image_*
+__pycache__/*
+feature-vectors/*
+json-files/*
