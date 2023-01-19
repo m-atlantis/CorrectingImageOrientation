@@ -2,7 +2,41 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Images/Airport" />
+      <excludeFolder url="file://$MODULE_DIR$/Images/BareLand" />
+      <excludeFolder url="file://$MODULE_DIR$/Images/BaseballField" />
+      <excludeFolder url="file://$MODULE_DIR$/Images/Beach" />
+      <excludeFolder url="file://$MODULE_DIR$/Images/Bridge" />
+      <excludeFolder url="file://$MODULE_DIR$/Images/Center" />
+      <excludeFolder url="file://$MODULE_DIR$/Images/Church" />
+      <excludeFolder url="file://$MODULE_DIR$/Images/Commercial" />
+      <excludeFolder url="file://$MODULE_DIR$/Images/DenseResidential" />
+      <excludeFolder url="file://$MODULE_DIR$/Images/Desert" />
+      <excludeFolder url="file://$MODULE_DIR$/Images/Farmland" />
+      <excludeFolder url="file://$MODULE_DIR$/Images/Forest" />
+      <excludeFolder url="file://$MODULE_DIR$/Images/Industrial" />
+      <excludeFolder url="file://$MODULE_DIR$/Images/Meadow" />
+      <excludeFolder url="file://$MODULE_DIR$/Images/MediumResidential" />
+      <excludeFolder url="file://$MODULE_DIR$/Images/Mountain" />
+      <excludeFolder url="file://$MODULE_DIR$/Images/Park" />
+      <excludeFolder url="file://$MODULE_DIR$/Images/Parking" />
+      <excludeFolder url="file://$MODULE_DIR$/Images/Playground" />
+      <excludeFolder url="file://$MODULE_DIR$/Images/Pond" />
+      <excludeFolder url="file://$MODULE_DIR$/Images/Port" />
+      <excludeFolder url="file://$MODULE_DIR$/Images/RailwayStation" />
+      <excludeFolder url="file://$MODULE_DIR$/Images/Resort" />
+      <excludeFolder url="file://$MODULE_DIR$/Images/River" />
+      <excludeFolder url="file://$MODULE_DIR$/Images/School" />
+      <excludeFolder url="file://$MODULE_DIR$/Images/SparseResidential" />
+      <excludeFolder url="file://$MODULE_DIR$/Images/Square" />
+      <excludeFolder url="file://$MODULE_DIR$/Images/Stadium" />
+      <excludeFolder url="file://$MODULE_DIR$/Images/StorageTanks" />
+      <excludeFolder url="file://$MODULE_DIR$/Images/Viaduct" />
+      <excludeFolder url="file://$MODULE_DIR$/Rotated_Images/BaseballField" />
+      <excludeFolder url="file://$MODULE_DIR$/Rotated_Images/Mountain" />
+      <excludeFolder url="file://$MODULE_DIR$/Rotated_Images/Park" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
