@@ -23,7 +23,11 @@ progress_bar = progressbar.ProgressBar(maxval=(360 / 10), widgets=widgets).start
 # loop over the rotation angles
 index = 0
 for angle in np.arange(0, 360, 10):
-    rotated = imutils.rotate_bound(image, angle)
+    # Cut edges
+    rotated = imutils.rotate(image, angle)
+
+    # Preserve edges
+    # rotated = imutils.rotate_bound(image, angle)
 
     # Used to show the images as they are generated
     # cv2.imshow("Rotated (Problematic)", rotated)
